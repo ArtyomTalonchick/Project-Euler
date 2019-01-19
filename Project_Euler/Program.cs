@@ -6,7 +6,7 @@ namespace Project_Euler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine((new Task_12()).Solution());
+            Console.WriteLine((new Task_13()).Solution());
             Console.ReadKey();
         }
     }
